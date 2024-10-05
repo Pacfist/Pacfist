@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pacfist
-- 👀 I’m interested in gaming and web developing
-- 🌱 I’m currently learning backend 
+- 👀 I’m interested in web developing
+- 🌱 I’m currently Django developer
 
 
 <!---
