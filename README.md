@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pacfist
 - 👀 I’m interested in web developing
-- 🌱 I’m currently Django developer
+- 🌱 I’m currently python backend and WEB3 developer
 
 
 <!---
