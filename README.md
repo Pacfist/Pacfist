@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pacfist
-- 👀 I’m interested in web developing
-- 🌱 I’m currently python backend and WEB3 developer
+- 🌱 I’m currently python Back-end (Django, FastAPI) and Web3 Developer (Solidity Smart Contracts using Foundry and Moccasin toolchain)
 
 
 <!---
